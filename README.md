@@ -16,7 +16,7 @@
 7. In your project page, nagivate to the `Assests` tab, drag the [data set](https://github.com/DevExCodeHub/analyze-nyc-jobs/blob/master/data/NYC_jobs.csv) file and drop it in the Load sidebar.
 
 ## Create Dashboard
-1. On the same Assets page, click on **(+) Add to project ** icon.
+1. On the same Assets page, click on **(+) Add to project** icon.
 2. Click the **Dashboard** icon.
 3. Name your Dashboard.
 4. Click `Associate a Cognos Dashboard Embedded service instance`, make sure a 
